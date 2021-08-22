@@ -152,9 +152,7 @@ Quirk is built with two main goals in mind:
 
 Quirk _must not_ lose user data. The entire point of the app is to record your thoughts, so if you lost them it would be pretty bad. As stated in [one study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6010839/):
 
-> While an app failure in general can be inconvenient and annoying, it can have serious consequences in the context of mental health apps—someone who has come to rely on an app for emotional support can find a failure “devastating.”
-
-Therefore, data management should be given a higher priority than any other part of the app.
+> While an app failure in general can be inconvenient and annoying, it can have serious consequences in the context of mental health apps—someone who has come to rely on an app for emotional support can find a failure “devastating.” Therefore, data management should be given a higher priority than any other part of the app.
 
 ## Taxonomy and Order of Data Failure Cases
 
